@@ -1,0 +1,180 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/res/" . "layout/")
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/java/com/moxtra/binder/ui/" . "home/")
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/java/com/moxtra/binder/" . "ui/")
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/java/com/moxtra/" . "binder/")
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/java/com/" . "moxtra/")
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/java/" . "com/")
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/" . "java/")
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/" . "main/")
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/" . "src/")
+ ("/Volumes/WORK/SSWork/huahua/huahua/" . "chat-sdk/")
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/src/main/java/com/moxtra/binder/ui/" . "home/")
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/src/main/java/com/moxtra/binder/" . "ui/")
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/src/main/java/com/moxtra/" . "binder/")
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/src/main/java/com/" . "moxtra/")
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/src/main/java/" . "com/")
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/src/main/" . "java/")
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/src/" . "main/")
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/" . "src/")
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/" . "chat-sdk/")
+ ("/Volumes/WORK/SSWork/huahua/" . "huahua/")
+ ("/Volumes/WORK/SSWork/560/Client/land/Classes/games/" . "brnn/")
+ ("/Users/sunshuai/.emacs.d/elpa/yasnippet-0.12.2/" . "snippets/")
+ ("/Users/sunshuai/.emacs.d/elpa/" . "web-mode-15/")
+ ("/Users/sunshuai/.emacs.d/" . "lisp/")
+ ("/Volumes/WORK/SSWork/560/Client/land/Resources/" . "config/")
+ ("/Volumes/WORK/SSWork/560/Client/land/proj.android-studio/" . "app/")
+ ("/Users/" . "sunshuai/")
+ ("/Users/sunshuai/" . ".emacs.d/")
+ ("/Volumes/WORK/SSWork/560/Client/land/Classes/" . "games/")
+ ("/Volumes/WORK/SSWork/560/Client/land/" . "Classes/")
+ ("/Volumes/WORK/SSWork/560/Client/" . "land/")
+ ("/Volumes/WORK/SSWork/560/" . "Client/")
+ ("/Volumes/WORK/SSWork/" . "huahua/")
+ ("/Volumes/WORK/" . "SSWork/")
+ ("/Volumes/" . "WORK/")
+ ("/" . "Volumes/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/java/com/moxtra/binder/ui/home/"
+ "/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/res/layout/"
+ "/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/src/main/java/com/moxtra/binder/ui/home/"
+ "/Volumes/WORK/SSWork/560/Client/land/Classes/games/brnn/"
+ "/Users/sunshuai/.emacs.d/lisp/"
+ "/Users/sunshuai/.emacs.d/"
+ "/Volumes/WORK/SSWork/560/Client/land/proj.android-studio/app/"
+ "/Volumes/WORK/SSWork/560/Client/"
+ "/Volumes/WORK/SSWork/560/Client/land/Resources/config/"
+ "/Volumes/WORK/SSWork/560/Client/land/Classes/hall/"
+ "/Users/sunshuai/.emacs.d/elpa/web-mode-15/"
+ "/Volumes/WORK/SSWork/560/Client/land/Classes/"
+ "/Users/sunshuai/.emacs.d/elpa/cpputils-cmake-5.5/"
+ "/Users/sunshuai/"
+ "/Volumes/WORK/SSWork/560/HotfixResFiles/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "MainActivity.java"
+ "home_top.xml"
+ "BRNNLayer.cpp"
+ "init-autoload.el"
+ "init.el"
+ "build.gradle"
+ ".gitignore"
+ "application.xml"
+ "AHBag.cpp"
+ "web-mode.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/java/com/moxtra/binder/ui/home/" (23136 14829 0 0) "TabContentAdapter.java" "MainActivity.java" "LeftSlidingView.java" "LeftSlidingProvider.java" "LeftSlidingPresenterImpl.java" "LeftSlidingPresenter.java" "LeftSlidingFragment.java" "LeftSlidingAdapter.java" "HomeView.java" "HomePresenterImpl.java" "HomePresenter.java" "DefaultMainTabsProvider.java" "DefaultMainTabsFactory.java" "BindersFragment.java" "../" "./")
+
+ ("/Users/sunshuai/" (23136 13704 0 0) "VirtualBox VMs/" "temp/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "hosts-editor/" "GTAGS" "GRTAGS" "GPATH" "emacs_study/" "Downloads/" "Documents/" "Desktop/" ".viminfo" ".vagrant.d/" ".Trash/" ".ssh/" ".smex-items" ".putty/" ".oracle_jre_usage/" ".npm/" ".local/" ".lesshst" ".itmstransporter/" ".gradle/" ".gitconfig" ".emulator_console_auth_token" ".emacs.keyfreq" ".emacs.d/" ".DS_Store" ".config/" ".cocos/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile.swo" ".bash_profile.swn" ".bash_profile" ".bash_history" ".backups/" ".android/" "../" "./")
+
+ ("/Volumes/" (23135 63917 0 0) "华为手机助手/" "WORK/" "MobileBackups/" "Macintosh HD/" "DATA/" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/res/layout/" (23135 13927 0 0) "widget_text_font_menu.xml" "widget_search_box.xml" "video_layout_loading.xml" "user_profile_second_group_view.xml" "user_profile_first_group_view.xml" "unknown_file_view.xml" "ui_action_sheet.xml" "topics_filter.xml" "toolbar_page_edit_tablet.xml" "toolbar_page_edit.xml" "timeline_item_meet.xml" "timeline_item_indicator_layout.xml" "timeline_item_content_layout.xml" "timeline_item_binder_invitation.xml" "timeline_item_binder.xml" "timeline_indicator.xml" "timeline_filter_item.xml" "timeline_empty_view.xml" "team_list_item.xml" "task_note_view.xml" "task_listitem.xml" "task_label_listitem.xml" "task_detailview_set_date.xml" "task_detailview_note.xml" "task_detailview_header.xml" "task_detailview_footer.xml" "task_detailview_delete.xml" "task_detailview_copy_or_move.xml" "task_detailview_assign_to.xml" "task_detailview_add_reminder.xml" "task_attachment_file_header.xml" "task_attachment_file.xml" "table_header.xml" "table_cell_v2.xml" "table_cell_text_horizontal.xml" "table_cell_text.xml" "table_cell_switch.xml" "table_cell_spinners.xml" "table_cell_icon_text.xml" "table_cell_edit.xml" "table_cell_date_time.xml" "table_cell_center_text.xml" "table_cell_button.xml" "table_cell.xml" "simple_page_container.xml" "settings_my_profile.xml" "segment_indicator.xml" "section_view.xml" "search_box.xml" "search_action_bar.xml" "row_view_all_binders.xml" "row_uc_call_to.xml" "row_uc_call_from.xml" "row_type_email.xml" "row_todo_last_activity.xml" "row_todo_comment.xml" "row_todo_activity.xml" "row_sliding_setting.xml" "row_simple_text.xml" "row_shelf_item.xml" "row_setting_usage_cell.xml" "row_see_all_members.xml" "row_pin_favorite_pic.xml" "row_pin_favorite_file.xml" "row_pin_favorite_chat.xml" "row_pin_favorite_audio.xml" "row_participant_list.xml" "row_participant_invite.xml" "row_participant_grid.xml" "row_page_thumbnail.xml" "row_normal_page_comment.xml" "row_new_discussion.xml" "row_more_friends.xml" "row_mentioned_me.xml" "row_meet_member.xml" "row_meet_list.xml" "row_left_sliding.xml" "row_invited_members_for_settings.xml" "row_invited_members_action_bar.xml" "row_invited_member_v2.xml" "row_invite_via_sms.xml" "row_imagetext_drop_item.xml" "row_file_entry.xml" "row_dummy_binder.xml" "row_copyright.xml" "row_conversation_cover.xml" "row_chat_video_to.xml" "row_chat_video_from.xml" "row_chat_unread_message_line.xml" "row_chat_todo_to.xml" "row_chat_todo_from.xml" "row_chat_talk_to.xml" "row_chat_talk_from.xml" "row_chat_pin_to.xml" "row_chat_pin_from.xml" "row_chat_pic_to.xml" "row_chat_pic_from.xml" "row_chat_meet_to.xml" "row_chat_meet_from.xml" "row_chat_info_to.xml" "row_chat_info_from.xml" "row_chat_info.xml" "row_chat_file_to.xml" "row_chat_file_from.xml" "row_chat_email_to.xml" "row_chat_email_from.xml" "row_chat_comment_to.xml" "row_chat_comment_from.xml" "row_chat_book_mark_to.xml" "row_chat_book_mark_from.xml" "row_chat_beginning.xml" "row_chat_audio_to.xml" "row_chat_audio_from.xml" "row_chat_audio_comment_to.xml" "row_chat_audio_comment_from.xml" "row_chat_annotation_to.xml" "row_chat_annotation_from.xml" "row_cell_menu.xml" "row_cell_header.xml" "row_category_select_binder.xml" "row_category_mgr.xml" "row_bot_members_for_settings.xml" "row_binder_cover.xml" "row_audio_page_comment.xml" "row_attachment_to.xml" "row_attachment_from.xml" "row_app.xml" "row_add_team_member.xml" "row_add_team.xml" "row_add_friends.xml" "row_activities_page_comment.xml" "progress_hud_countdown.xml" "progress_hud.xml" "popup_vertical.xml" "popup_horizontal.xml" "popup_clip_control.xml" "popup_annotation_select_context_control.xml" "popover.xml" "people_list_item.xml" "people_list_division_department_item.xml" "partial_web_page.xml" "partial_video_on.xml" "partial_settings_navbar.xml" "partial_meet_topic.xml" "partial_contacts_header.xml" "partial_binder_empty_view.xml" "partial_auto_record.xml" "partial_audio_on.xml" "page_thumbnail_bottom_bar.xml" "page_grid_item_whiteboard.xml" "page_grid_item_web.xml" "page_grid_item_media.xml" "page_grid_item_image.xml" "page_grid_item_group.xml" "page_detail_set_stroke_size.xml" "page_detail_secondary_panel_3.xml" "page_detail_secondary_panel_2.xml" "page_detail_secondary_panel_1.xml" "page_detail_record_panel.xml" "page_detail_pagination.xml" "page_detail_more_buttons.xml" "page_detail_main_toolbar.xml" "page_detail_edit_toolbar.xml" "page_detail_color_picker.xml" "page_detail_arrow_toolbar.xml" "page_detail_add_button.xml" "page_detail_action_panel.xml" "non_moxtra_contact_list_item.xml" "new_page_template.xml" "network_indication.xml" "mx_time_view.xml" "mx_meet_list_item_header.xml" "mx_meet_list_item.xml" "mx_layout_meet_menu.xml" "mx_item_whiteboard_file.xml" "mx_item_web_file.xml" "mx_item_select_file_list_view.xml" "mx_item_new_folder_view.xml" "mx_item_multi_pages_file.xml" "mx_item_media_file.xml" "mx_item_image_file.xml" "mx_item_folder_tile_view.xml" "mx_item_folder_list_view.xml" "mx_item_folder_header.xml" "mx_item_file_tile_view.xml" "mx_item_file_section.xml" "mx_item_file_option.xml" "mx_item_file_list_view.xml" "mx_item_file_header.xml" "mx_file_option_dialog.xml" "mx_file_operation_bar.xml" "mx_file_list_footer.xml" "mx_file_list_folder_nav.xml" "mx_date_view.xml" "mx_date_time_picker.xml" "mx_chat_load_more.xml" "mx_calendar_list_item_2.xml" "mentioned_me_section_view.xml" "member_profile_header.xml" "meet_sdk_row_participant.xml" "meet_sdk_participant_actions.xml" "meet_sdk_livechat_messages.xml" "meet_sdk_livechat_header_view.xml" "meet_sdk_footer_view.xml" "meet_sdk_activity_main.xml" "meet_list_view.xml" "meet_info_panel.xml" "meet_info_bottom_bar.xml" "meet_control_toolbar_tablet.xml" "meet_control_toolbar.xml" "meet_control_headerbar_tablet.xml" "meet_control_headerbar.xml" "map_place_list_item.xml" "main_tasks_list_item.xml" "login_with_third_party.xml" "live_sharing_secondary_panel_1.xml" "live_sharing_main_toolbar.xml" "live_sharing_invite_attendees.xml" "live_sharing_close_button.xml" "live_sharing_action_panel.xml" "left_sliding_list_header.xml" "layout_youtube_player.xml" "layout_whiteboard_thumbnail.xml" "layout_weekly.xml" "layout_todo_action_content.xml" "layout_time_line_add_menu.xml" "layout_sub_pages.xml" "layout_story_page3_tablet.xml" "layout_story_page3.xml" "layout_story_page2_tablet.xml" "layout_story_page2.xml" "layout_story_page1_tablet.xml" "layout_story_page1.xml" "layout_story_page0_tablet.xml" "layout_story_page0.xml" "layout_sip_number_select_menu.xml" "layout_sip_call_floating.xml" "layout_signup_tablet.xml" "layout_signup.xml" "layout_select_page_with_group_footbar.xml" "layout_searchresult_title.xml" "layout_searchresult_contact.xml" "layout_searchresult_binder_user.xml" "layout_searchresult_binder_todo.xml" "layout_searchresult_binder_detail.xml" "layout_searchresult_binder.xml" "layout_search_view.xml" "layout_search_tag.xml" "layout_resend_confirmation.xml" "layout_refresh_listview_footer.xml" "layout_page_group.xml" "layout_page_container.xml" "layout_page_comment_quick_actions.xml" "layout_monthly.xml" "layout_meet_indicator.xml" "layout_media_thumbnail.xml" "layout_logo_top.xml" "layout_login_tablet.xml" "layout_login.xml" "layout_listview.xml" "layout_item_null.xml" "layout_input_dialog_edittext.xml" "layout_input_box.xml" "layout_indicator.xml" "layout_image_thumbnail.xml" "layout_guide_pages.xml" "layout_forgot_password.xml" "layout_forgetpassword.xml" "layout_force_upgrading.xml" "layout_file_import_recycleview_cell.xml" "layout_dialog_header_bar.xml" "layout_cover_templates.xml" "layout_contact_items.xml" "layout_call_floating.xml" "layout_bindersearch_root.xml" "layout_binder_fragment.xml" "layout_binder_cover.xml" "layout_audio_recorder.xml" "item_similar_binder.xml" "item_select_binder.xml" "item_page_group_whiteboard.xml" "item_page_group_web.xml" "item_page_group_media.xml" "item_page_group_image.xml" "item_other_wechat_list.xml" "item_other_qq_list.xml" "item_other_newmates_list.xml" "item_other_contact_list.xml" "item_new_binder.xml" "item_member_requests.xml" "item_meet_participant_list.xml" "item_choose_category.xml" "invited_members_view.xml" "invited_members.xml" "invited_member_avatar.xml" "invite_via_email.xml" "invite_contacts_in_multiways.xml" "invite_contacts_by_phone.xml" "invite_contacts_by_email.xml" "horiz_separator.xml" "home_top.xml" "home_tabs_tablet.xml" "home_tabs.xml" "groupchat_tasks_list_item.xml" "fragment_webclip.xml" "fragment_we_link_dialog.xml" "fragment_we_editor.xml" "fragment_video_player.xml" "fragment_userpass.xml" "fragment_tools.xml" "fragment_todo.xml" "fragment_timeline_list.xml" "fragment_team_list.xml" "fragment_team_details.xml" "fragment_task_list.xml" "fragment_task_details_default.xml" "fragment_task_details.xml" "fragment_task_comments.xml" "fragment_task_comment_edit.xml" "fragment_tag_edit.xml" "fragment_tab_shelf.xml" "fragment_tab_portal.xml" "fragment_tab_contacts_tablet.xml" "fragment_tab_contacts.xml" "fragment_tab_call_logs.xml" "fragment_tab_business_library.xml" "fragment_tab_binders_tablet.xml" "fragment_tab_binders.xml" "fragment_start_chat.xml" "fragment_stack.xml" "fragment_simple_cell_menu.xml" "fragment_signup.xml" "fragment_signature.xml" "fragment_settings.xml" "fragment_send_feedback.xml" "fragment_select_region.xml" "fragment_select_page.xml" "fragment_select_files.xml" "fragment_select_binder.xml" "fragment_searchresult_list.xml" "fragment_search_tablet_land.xml" "fragment_search.xml" "fragment_schedule_meet.xml" "fragment_save_page.xml" "fragment_review.xml" "fragment_repositories.xml" "fragment_repeat_end.xml" "fragment_repeat.xml" "fragment_profile_editor.xml" "fragment_profile_avatar.xml" "fragment_pin_list.xml" "fragment_people_list.xml" "fragment_participant_list.xml" "fragment_page_view.xml" "fragment_page_group.xml" "fragment_new_version.xml" "fragment_my_task_list.xml" "fragment_mxvideo.xml" "fragment_mentioned_me_list.xml" "fragment_member_requests.xml" "fragment_member_profile.xml" "fragment_meet_option.xml" "fragment_meet_list.xml" "fragment_meet_control.xml" "fragment_map.xml" "fragment_main_task_list.xml" "fragment_login.xml" "fragment_liveshare_view.xml" "fragment_live_meet_tablet.xml" "fragment_live_meet.xml" "fragment_live_chat.xml" "fragment_left_sliding.xml" "fragment_lazy_loading.xml" "fragment_landing_page_tablet.xml" "fragment_landing_page.xml" "fragment_join_meet.xml" "fragment_join_business_org.xml" "fragment_invite_members.xml" "fragment_import_contacts.xml" "fragment_forgetpassword.xml" "fragment_files.xml" "fragment_file_import.xml" "fragment_file_browser.xml" "fragment_favorite_list.xml" "fragment_faq.xml" "fragment_email_verification.xml" "fragment_dial_in.xml" "fragment_create_team.xml" "fragment_create_category.xml" "fragment_create_binder.xml" "fragment_copy_page.xml" "fragment_contact_support.xml" "fragment_comments.xml" "fragment_clip_preview.xml" "fragment_choose_cover.xml" "fragment_choose_binder_cover.xml" "fragment_chat.xml" "fragment_category_mgr.xml" "fragment_category_add_binders.xml" "fragment_categories.xml" "fragment_bubble_edit.xml" "fragment_bubble.xml" "fragment_board_task_list.xml" "fragment_biz_directory.xml" "fragment_binder_thumbnail.xml" "fragment_binder_options.xml" "fragment_binder_name_edit.xml" "fragment_binder_info_edit.xml" "fragment_binder_grid.xml" "fragment_binder_description_edit.xml" "fragment_binder_default.xml" "fragment_binder_category.xml" "fragment_binder.xml" "fragment_auth_view.xml" "fragment_auth_login.xml" "fragment_assignee_list.xml" "fragment_agent_login.xml" "fragment_add_type.xml" "fragment_add_todo.xml" "fragment_add_avatar.xml" "file_explorer_list.xml" "file_browser_item.xml" "emojicons.xml" "emojicon_item.xml" "emojicon_grid.xml" "edit_meet_topic.xml" "dropdown_item.xml" "dialpad_chooser_list_item.xml" "dialog_with_edit.xml" "dialog_custom_view_edittext.xml" "dial_in_item.xml" "default_youtube_view.xml" "default_quote_view.xml" "coach_mark_03.xml" "coach_mark_02.xml" "coach_mark_01.xml" "clip_small_view.xml" "clip_sdk_page_view_header.xml" "clip_sdk_note_float.xml" "clip_sdk_fragment_note_share.xml" "clip_sdk_fragment_annotate_preview.xml" "clip_sdk_float_base.xml" "clip_sdk_activity_save_note.xml" "clip_big_view.xml" "checkable_binder_list_item.xml" "chat_tasks_list_item.xml" "category_empty_view.xml" "calllog_action_bar.xml" "bubble_text_tag.xml" "binder_fragment_tabs_tablet.xml" "binder_fragment_tabs.xml" "binder_email_address.xml" "avatar_initial.xml" "alert_dialog.xml" "adapter_select_photos.xml" "activity_youtube_play.xml" "activity_web_browser.xml" "activity_transparent.xml" "activity_todo_detail.xml" "activity_stack_dialog.xml" "activity_stack.xml" "activity_splash.xml" "activity_signed_out.xml" "activity_select_photos.xml" "activity_search.xml" "activity_ringing.xml" "activity_player_layout.xml" "activity_page_template.xml" "activity_page_detail.xml" "activity_moxtra_main.xml" "activity_main_tablet.xml" "activity_live_meet.xml" "activity_floating_actionbar.xml" "activity_embeded_container.xml" "activity_conversation.xml" "activity_categories.xml" "activity_call_ringing.xml" "action_sheet_table_cell.xml" "action_sheet_button.xml" "action_item_vertical_separator.xml" "action_item_vertical.xml" "action_item_horizontal.xml" "action_bar_default_v2.xml" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/res/" (23123 23561 0 0) "xml/" "values-zh-rTW/" "values-zh-rHK/" "values-zh-rCN/" "values-xlarge/" "values-vi/" "values-v21/" "values-tr/" "values-th/" "values-sw700dp-land/" "values-sw700dp/" "values-sw600dp-land/" "values-sw600dp/" "values-sv/" "values-ru/" "values-pt/" "values-nl/" "values-land/" "values-ko/" "values-ja/" "values-it/" "values-in/" "values-fr/" "values-fi/" "values-es/" "values-de/" "values-da/" "values/" "raw/" "menu/" "layout-v21/" "layout/" "drawable-xxhdpi/" "drawable-xhdpi/" "drawable-sw600dp-xhdpi/" "drawable-sw600dp-nodpi/" "drawable-sw600dp-mdpi/" "drawable-sw600dp-land-xhdpi/" "drawable-sw600dp-land/" "drawable-sw600dp/" "drawable-nodpi/" "drawable-mdpi/" "drawable-land-hdpi/" "drawable-hdpi/" "drawable/" "color/" "anim/" ".DS_Store" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/java/com/moxtra/binder/ui/" (23122 63772 0 0) "xeagent/" "widget/" "webnote/" "webclip/" "vo/" "util/" "transfer/" "todo/" "timeline/" "teams/" "task/" "support/" "splash/" "shelf/" "ShareUtil.java" "share/" "settings/" "search/" "provider/" "profile/" "portal/" "player/" "pageview/" "notification/" "meet/" "login/" "location/" "invitation/" "injection/" "importer/" "imagepicker/" "imagecache/" "home/" "hardware/" "flaggr/" "files/" "eventbus/" "drawable/" "customization/" "conversation/" "contacts/" "common/" "chooser/" "chat/" "category/" "call/" "calendar/" "branding/" "billing/" "bbcode/" "base/" "app/" "anim/" "adapter/" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/java/com/moxtra/binder/" (23122 63772 0 0) "ui/" "sdk/" "MXPushIntentService.java" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/java/com/moxtra/" (23122 63772 0 0) "jhk/" "binder/" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/java/com/" (23122 63754 0 0) "moxtra/" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/java/" (23122 63754 0 0) "com/" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/main/" (23123 23546 0 0) "res_uc/" "res_todo/" "res_sign/" "res_sidemenu/" "res_meetlist/" "res_livemeet/" "res_file/" "res_conversation/" "res_common/" "res_chatsdk/" "res_chat/" "res_branding/" "res_billing/" "res/" "jniLibs/" "java/" "assets/" "AndroidManifest.xml" "aidl/" ".DS_Store" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/src/" (23123 23546 0 0) "vendors/" "test/" "main/" "debug/" "chatsdk2/" "chatsdk/" "androidTest/" ".DS_Store" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahua/chat-sdk/" (23135 11081 0 0) "src/" "README.txt" "proguard-rules.pro" "libs/" "gradle.properties" "consumer-proguard-rules.pro" "chat-sdk.iml" "build.gradle" "build/" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahua/" (23125 61086 0 0) "settings.gradle" "README.md" "local.properties" "huahua.iml" "gradlew.bat" "gradlew" "gradle.properties" "gradle/" "ChinaOpenSource.iml" "chat-sdk/" "build.gradle" "build/" "app/" ".idea/" ".gradle/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/src/main/java/com/moxtra/binder/ui/home/" (23135 11067 0 0) "TabContentAdapter.java" "MainActivity.java" "LeftSlidingView.java" "LeftSlidingProvider.java" "LeftSlidingPresenterImpl.java" "LeftSlidingPresenter.java" "LeftSlidingFragment.java" "LeftSlidingAdapter.java" "HomeView.java" "HomePresenterImpl.java" "HomePresenter.java" "DefaultMainTabsProvider.java" "DefaultMainTabsFactory.java" "BindersFragment.java" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/src/main/java/com/moxtra/binder/ui/" (23122 63772 0 0) "xeagent/" "widget/" "webnote/" "webclip/" "vo/" "util/" "transfer/" "todo/" "timeline/" "teams/" "task/" "support/" "splash/" "shelf/" "ShareUtil.java" "share/" "settings/" "search/" "provider/" "profile/" "portal/" "player/" "pageview/" "notification/" "meet/" "login/" "location/" "invitation/" "injection/" "importer/" "imagepicker/" "imagecache/" "home/" "hardware/" "flaggr/" "files/" "eventbus/" "drawable/" "customization/" "conversation/" "contacts/" "common/" "chooser/" "chat/" "category/" "call/" "calendar/" "branding/" "billing/" "bbcode/" "base/" "app/" "anim/" "adapter/" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/src/main/java/com/moxtra/binder/" (23122 63772 0 0) "ui/" "sdk/" "MXPushIntentService.java" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/src/main/java/com/moxtra/" (23122 63772 0 0) "jhk/" "binder/" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/src/main/java/com/" (23122 63754 0 0) "moxtra/" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/src/main/java/" (23122 63754 0 0) "com/" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/src/main/" (23123 23546 0 0) "res_uc/" "res_todo/" "res_sign/" "res_sidemenu/" "res_meetlist/" "res_livemeet/" "res_file/" "res_conversation/" "res_common/" "res_chatsdk/" "res_chat/" "res_branding/" "res_billing/" "res/" "jniLibs/" "java/" "assets/" "AndroidManifest.xml" "aidl/" ".DS_Store" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/src/" (23123 23546 0 0) "vendors/" "test/" "main/" "debug/" "chatsdk2/" "chatsdk/" "androidTest/" ".DS_Store" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/chat-sdk/" (23123 23535 0 0) "src/" "README.txt" "proguard-rules.pro" "libs/" "gradle.properties" "consumer-proguard-rules.pro" "chat-sdk.iml" "build.gradle" "build/" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/huahuahulei/" (23123 17232 0 0) "settings.gradle" "README.md" "local.properties" "huahua.iml" "gradlew.bat" "gradlew" "gradle.properties" "gradle/" "ChinaOpenSource.iml" "chat-sdk/" "build.gradle" "build/" "app/" ".gradle/" ".DS_Store" "../" "./")
+
+ ("/Volumes/WORK/SSWork/huahua/" (23124 34592 0 0) "huahuahulei/" "huahua/" "doc/" "ChinaOpenSource/" "AES.java" ".DS_Store" "../" "./")
+
+ ("/Volumes/WORK/SSWork/560/Client/" (23135 10368 0 0) "land/" "info/" "GTAGS" "GRTAGS" "GPATH" "em_strings.xml" "DeviceUtil-old/" "Default/" ".gitmodules" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Volumes/WORK/SSWork/560/Client/land/Classes/games/" (23135 10368 0 0) "zhajinhua/" "texas/" "sgzz/" "qzniuniu/" "niuniu/" "majiang/" "land/" "frame/" "fish/" "cars/" "brnn/" "../" "./")
+
+ ("/Volumes/WORK/SSWork/560/Client/land/Classes/games/brnn/" (23135 10292 0 0) "protocol/" "logic/" "BRNNLayer.h" "BRNNLayer.cpp" "../" "./")
+
+ ("/Users/sunshuai/.emacs.d/" (23135 6975 0 0) "var/" "snippets/" "site-lisp/" "recentf" "README.org" "misc/" "localelpa/" "lisp/" "init.el" "ido.last" "history" "gtags.el" "emms/" "elpa/" "custom-set-variables.el" "company-statistics-cache.el" "auto-save-list/" ".session" ".gitignore" ".git/" "../" "./")
+
+ ("/Volumes/WORK/SSWork/560/Client/land/Classes/hall/" (23134 46902 0 0) "UserMessageManager.h" "UserMessageManager.cpp" "UserManager.h" "UserManager.cpp" "UserDataClub.cpp" "UserData.h" "UserData.cpp" "SignupGroupsManager.h" "SignupGroupsManager.cpp" "ServerListManager.h" "ServerListManager.cpp" "room/" "protocol/" "network/" "MsgHandler.h" "HallScene.h" "HallScene.cpp" "GameHeadHelper.h" "GameHeadHelper.cpp" "DilaogModifyNickName.h" "DilaogModifyNickName.cpp" "DialogVip.h" "DialogVip.cpp" "DialogTask.h" "DialogTask.cpp" "DialogSignIn.h" "DialogSignIn.cpp" "DialogShop.h" "DialogShop.cpp" "DialogService.h" "DialogService.cpp" "DialogPhoto.h" "DialogPhoto.cpp" "DialogPerson.h" "DialogPerson.cpp" "DialogNoMoney.h" "DialogNoMoney.cpp" "DialogModifyPassword.h" "DialogModifyPassword.cpp" "DialogMessage.h" "DialogMessage.cpp" "DialogFirstRecharge.h" "DialogFirstRecharge.cpp" "DialogFirstLogonReward.h" "DialogFirstLogonReward.cpp" "DialogExchange.h" "DialogExchange.cpp" "DialogDiscountRecharge.h" "DialogDiscountRecharge.cpp" "DialogCoinLackLayer.h" "DialogCoinLackLayer.cpp" "DialogClubRecommend.h" "DialogClubRecommend.cpp" "DialogChat.h" "DialogChat.cpp" "DialogCharity.h" "DialogCharity.cpp" "DialogBankActive.h" "DialogBankActive.cpp" "DialogBank.h" "DialogBank.cpp" "DialogActivity.h" "DialogActivity.cpp" "club/" "AHBag.h" "AHBag.cpp" "../" "./")
+
+ ("/Volumes/WORK/SSWork/560/Client/land/proj.android-studio/" (23134 47436 0 0) "sobotLibrary/" "settings.gradle" "proj.android-studio.iml" "local.properties" "gradlew.bat" "gradlew" "gradle.properties" "gradle/" "build.gradle" "build-cfg.json" "build/" "app/" ".idea/" ".gradle/" ".gitignore" ".git" ".DS_Store" "../" "./")
+
+ ("/Volumes/WORK/SSWork/560/Client/land/proj.android-studio/app/" (23134 47495 0 0) "src/" "res/" "project.properties" "proguard-rules.pro" "proguard-project.txt" "obj/" "local.properties" "libs/" "land.iml" "jni/" "gradle.properties" "build.xml" "build.gradle" "build/" "assets/" "AndroidManifest.xml" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Volumes/WORK/SSWork/560/Client/land/Resources/config/" (23134 46926 0 0) "vip_lev.xml" "senstive.txt" "sence1.xml" "rule.xml" "prop.xml" "playerAV.json" "player_av.xml" "pay.xml" "nickname.txt" "head.xml" "giveprop.xml" "game_string.xml" "dirty_string.xml" "common_config.xml" "application.xml" "../" "./")
+
+ ("/Users/sunshuai/.emacs.d/elpa/web-mode-15/" (23132 16701 0 0) "web-mode.elc" "web-mode.el" "web-mode-pkg.el" "web-mode-autoloads.el" "../" "./")
+
+ ("/Volumes/WORK/SSWork/560/Client/land/Classes/" (23133 54212 0 0) "VoiceMsg/" "sound/" "sdks/" "login/" "loading/" "hall/" "games/" "DialogueAction.h" "ConfigInitManager.h" "ConfigInitManager.cpp" "config/" "common/" "Cocos2dx/" "AppDelegate.h" "AppDelegate.cpp" ".DS_Store" "../" "./")
+
+ ("/Users/sunshuai/.emacs.d/elpa/yasnippet-0.12.2/snippets/" (23130 11544 0 0) "yaml-mode/" "web-mode/" "udev-mode/" "typerex-mode/" "tuareg-mode/" "text-mode/" "terraform-mode/" "sql-mode/" "snippet-mode/" "sh-mode/" "scala-mode/" "rust-mode/" "ruby-mode/" "rst-mode/" "rename_add_contr.py" "README.md" "python-mode/" "protobuf-mode/" "prog-mode/" "perl-mode/" "org-mode/" "octave-mode/" "nxml-mode/" "nsis-mode/" "nix-mode/" "nesc-mode/" "ned-mode/" "markdown-mode/" "malabar-mode/" "makefile-mode/" "makefile-gmake-mode/" "makefile-bsdmake-mode/" "makefile-automake-mode/" "m4-mode/" "lua-mode/" "lisp-mode/" "lisp-interaction-mode/" "LICENSE" "latex-mode/" "js3-mode/" "js2-mode/" "js-mode/" "java-mode/" "html-mode/" "haskell-mode/" "groovy-mode/" "go-mode/" "git-commit-mode/" "faust-mode/" "f90-mode/" "erlang-mode/" "erc-mode/" "ensime-mode/" "enh-ruby-mode/" "emacs-lisp-mode/" "elixir-mode/" "dix-mode/" "css-mode/" "csharp-mode/" "cpp-omnet-mode/" "cperl-mode/" "CONTRIBUTORS.txt" "conf-unix-mode/" "cmake-mode/" "clojure-mode/" "cider-repl-mode/" "chef-mode/" "cc-mode/" "c-mode/" "c++-mode/" "applescript-mode/" "apples-mode/" "antlr-mode/" ".nosearch" ".gitignore" "../" "./")
+
+ ("/Volumes/WORK/SSWork/560/Client/land/Resources/" (23132 33769 0 0) "vip1.png" "UserDefault.xml" "task.xml" "sound/" "ShareSDK.xml" "Record.xml" "prop.xml" "oggsound/" "lebianFlag.xml" "iphonehd/" "hotfix_manifest/" "head_vip6.png" "hall_res/" "Default/" "config/" "common_res/" "club_icon1.png" ".DS_Store" "../" "./")
+
+ ("/Volumes/WORK/SSWork/560/" (23133 25803 0 0) "渠道名明细.txt" "文档/" "qygame/" "key/" "HotfixResFiles/" "Doc/" "dianxin8/" "ClientRes/" "Client/" ".DS_Store" "#study.txt#" "../" "./")
+
+ ("/Users/sunshuai/.emacs.d/lisp/" (23133 37980 0 0) "init-yasnippet.el" "init-writting.el" "init-workgroups2.el" "init-windows.el" "init-which-func.el" "init-web-mode.el" "init-utils.el" "init-uniquify.el" "init-term-mode.el" "init-spelling.el" "init-slime.el" "init-site-lisp.el" "init-sh.el" "init-sessions.el" "init-semantic.el" "init-ruby-mode.el" "init-python-mode.el" "init-pomodoro.el" "init-perforce.el" "init-org.el" "init-multiple-cursors.el" "init-moz.el" "init-modeline.el" "init-misc.el" "init-misc-lazy.el" "init-markdown.el" "init-lua-mode.el" "init-lisp.el" "init-linum-mode.el" "init-keyfreq.el" "init-javascript.el" "init-ivy.el" "init-ido.el" "init-ibuffer.el" "init-hydra.el" "init-httpd.el" "init-hs-minor-mode.el" "init-hippie-expand.el" "init-haskell.el" "init-gui-frames.el" "init-gud.el" "init-gtags.el" "init-gnus.el" "init-git.el" "init-fonts.el" "init-exec-path.el" "init-evil.el" "init-erlang.el" "init-emacs-w3m.el" "init-elpa.el" "init-elisp.el" "init-dired.el" "init-ctags.el" "init-css.el" "init-cperl-mode.el" "init-compat.el" "init-company.el" "init-color-theme.el" "init-clipboard.el" "init-chinese.el" "init-cc-mode.el" "init-bbdb.el" "init-autoload.el" "init-artbollocks-mode.el" "../" "./")
+
+ ("/Users/sunshuai/.emacs.d/elpa/cpputils-cmake-5.5/" (23133 27405 0 0) "cpputils-cmake.elc" "cpputils-cmake.el" "cpputils-cmake-pkg.el" "cpputils-cmake-autoloads.el" "../" "./")
+
+ ("/Users/sunshuai/.emacs.d/elpa/" (23132 16725 0 0) "zoutline-20170722.651/" "yasnippet-0.12.2/" "yaml-mode-20170727.1531/" "writeroom-mode-3.7/" "workgroups2-20141102.1122/" "wgrep-20141016.1656/" "websocket-20171113.2045/" "web-mode-15/" "w3m-20171221.2317/" "visual-fill-column-1.11/" "unfill-0.2/" "undo-tree-20170706.246/" "tidy-20111222.956/" "textile-mode-20170304.916/" "tagedit-1.4.0/" "swiper-0.10.0/" "smex-3.0/" "simple-httpd-20171004.938/" "session-20120510.1700/" "scss-mode-0.5.0/" "scratch-20170614.1401/" "s-1.12.0/" "rvm-1.4.0/" "ruby-compilation-2.11/" "robe-20171116.1249/" "rjsx-mode-0.3.0/" "request-0.2.0/" "regex-tool-20170104.1118/" "rainbow-delimiters-2.1.3/" "quack-20160410.207/" "pyvenv-1.10/" "pyim-basedict-0.3.1/" "pyim-1.7/" "popup-0.5.3/" "pomodoro-20150716.1046/" "pinyinlib-0.1.1/" "pcache-0.4.2/" "paredit-24/" "page-break-lines-0.11/" "packed-20170819.942/" "package-lint-20171201.1903/" "nvm-0.2.0/" "neotree-0.5.2/" "mwe-log-commands-20100703.541/" "multiple-cursors-1.4.0/" "multi-term-20160619.233/" "move-text-20170908.2030/" "markdown-mode-2.3/" "lua-mode-20180104.626/" "logito-0.1/" "lispyville-20170907.926/" "lispy-20180114.605/" "link-1.10/" "less-css-mode-0.21/" "legalese-20150820.1024/" "jump-2.5/" "jss-20130508.723/" "js2-mode-20170721/" "js-doc-20160714.2134/" "ivy-hydra-0.10.0/" "ivy-0.10.0/" "inflections-20170913.216/" "inf-ruby-20171211.225/" "iedit-20170916.1024/" "idomenu-20141123.1320/" "ibuffer-vc-0.10/" "hydra-0.14.0/" "htmlize-20171017.141/" "hl-sexp-1.0.0/" "highlight-indentation-0.7.0/" "haskell-mode-16.1/" "haml-mode-3.1.9/" "groovy-mode-20180109.718/" "goto-chg-1.7.2/" "gitignore-mode-1.2.6/" "gitconfig-mode-20170627.854/" "git-timemachine-3.0/" "git-link-0.5.1/" "gist-1.4.0/" "gh-0.10.0/" "fringe-helper-1.0.1/" "flyspell-lazy-0.6.10/" "flymake-ruby-0.8/" "flymake-lua-20170128.1754/" "flymake-jslint-0.23/" "flymake-easy-0.10/" "flymake-css-0.3/" "flx-ido-0.6.1/" "flx-0.6.1/" "findr-20130824.507/" "find-file-in-project-5.4.6/" "find-by-pinyin-dired-0.0.3/" "f-0.20.0/" "expand-region-0.11.0/" "exec-path-from-shell-1.11/" "evil-visualstar-0.2.0/" "evil-surround-1.0.1/" "evil-nerd-commenter-3.1.3/" "evil-matchit-2.2.5/" "evil-mark-replace-0.0.4/" "evil-iedit-state-1.1/" "evil-find-char-pinyin-20160514.1341/" "evil-exchange-20170510.1959/" "evil-escape-3.14/" "evil-1.2.13/" "erlang-20171219.305/" "emms-4.4/" "emmet-mode-1.0.8/" "elpy-1.17.0/" "dumb-jump-20180109.1318/" "dsvn-20130120.1257/" "dropdown-list-20120329.936/" "dired+-20170818.1411/" "diminish-0.45/" "dictionary-1.10/" "dash-functional-2.13.0/" "dash-2.13.0/" "cpputils-cmake-5.5/" "counsel-gtags-20170326.559/" "counsel-bbdb-0.0.3/" "counsel-0.10.0/" "connection-1.10/" "company-c-headers-20170531.1330/" "company-0.9.4/" "color-theme-20080305.34/" "cmake-mode-3.10.1/" "cliphist-0.5.5/" "buffer-move-20160615.1103/" "bookmark+-20170731.1658/" "bbdb-20180106.910/" "bash-completion-2.0.0/" "avy-0.4.0/" "auto-yasnippet-0.3.0/" "auto-compile-20180111.436/" "async-1.9.2/" "archives/" "anaphora-1.0.0/" "ace-window-20171228.1109/" "ace-pinyin-0.2.5/" "ace-mc-20160408.1737/" "ace-link-0.5.0/" "ace-jump-mode-2.0/" "../" "./")
+
+ ("/Users/sunshuai/.emacs.d/elpa/yasnippet-0.12.2/" (23130 11544 0 0) "yasnippet.elc" "yasnippet.el" "yasnippet-pkg.el" "yasnippet-autoloads.el" "snippets/" "../" "./")
+
+ ("/Volumes/WORK/SSWork/560/ClientRes/" (23123 11252 0 0) "zhajinhua/" "texas/" "qudao/" "niuniu/" "maj/" "land/" "hall/" "fruit/" "fish_gf/" "fish2/" "fish/" "auto/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Volumes/WORK/SSWork/560/HotfixResFiles/" (23119 5653 0 0) "zjh/" "texas/" "niuniu/" "md5sum.exe" "md5.bat" "majiang/" "land/" "hall_gfby/" "hall/" "fruit/" "fish3/" "fish2/" "fish/" "copy-res.bat" "copy-res-ios.sh" "copy-release.bat" "copy-android-res.sh" "copy-android-res-all.sh" "cars/" ".git/" ".DS_Store" "../" "./")
+
+ ("/usr/" (22787 52451 0 0) "standalone/" "share/" "sbin/" "local/" "libexec/" "lib/" "bin/" "../" "./")
+
+ ("/Volumes/WORK/SSWork/560/Client/land/" (23118 59839 0 0) "Resources/" "res-update/" "proj.win8.1-universal/" "proj.win32/" "proj.win10/" "proj.linux/" "proj.ios_xf/" "proj.ios_mac/" "proj.ios-ih/" "proj.android-studio/" "libiconv-1.14/" "cocos2d/" "CMakeLists.txt" "Classes/" "breakpad/" "bin/" ".idea/" ".DS_Store" ".cocos-project.json" "../" "./")
+
+ ("/Volumes/WORK/SSWork/" (23120 36902 0 0) "sdk/" "res/" "key/" "IMG_5815.PNG" "IMG_0443.JPG" "icon_1024.png" "huahua/" "bak/" "apk/" "560/" ".DS_Store" "../" "./")
+
+ ("/Volumes/WORK/" (23123 9250 0 0) "关键词" "testcl/" "SSWork/" "qpserver/" "DrowWiki/" ".Trashes/" ".TemporaryItems/" ".Spotlight-V100/" ".MobileBackups/" ".fseventsd/" ".DS_Store" ".DocumentRevisions-V100/" "../" "./")
+
+ ("/Volumes/DATA/" (23125 45076 0 0) "美剧/" "Vagrantfile" "ubuntu/" "soft/" "photo/" "pdf/" "music/" "download/" "cocos/" "book/" ".vagrant/" ".Trashes/" ".TemporaryItems/" ".Spotlight-V100/" ".MobileBackups/" ".fseventsd/" ".DS_Store" ".DocumentRevisions-V100/" "../" "./")
+
+ ("/Users/" (22926 25528 0 0) "sunshuai/" "Shared/" "Guest/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
